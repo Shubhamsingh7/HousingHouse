@@ -1,0 +1,130 @@
+body p{
+    padding:0px 0px 0px 0px;
+    margin:0px 0px 0px 0px;
+        font-family: 'Kavivanar', cursive;
+    
+}
+h2{
+    font-family: 'Berkshire Swash', cursive;
+    color: #d62d20;
+}
+
+h1{
+   font-family: 'Berkshire Swash', cursive;
+}
+.navbar{
+    margin-bottom: 0px;
+
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #4285f4;
+    color: 	#ffffff;
+    opacity: 1;
+}
+.corausal-wrapper .container{
+   margin-top: 52px;
+    height: 800px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 25px;
+}
+.corausal-wrapper .container .carousel-inner img{
+     height:800px;
+    width: 100%;
+}
+.team-wrapper .container .row .col-md-4 img{
+    height: 200px;
+     height: 200px;
+    margin-top: 40px;
+    margin:0 auto;
+    margin-top: 40px;
+}
+.team-wrapper .container .row .col-md-4 h2,p{
+    margin:0 auto;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 18px;
+
+}
+.team-wrapper .container{
+    margin-bottom: 20px;
+}
+.content{
+   padding: 0px 0px ;
+   padding-top: 15px;
+}
+
+.row1{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    
+}
+.content .row .col-md-8,.col-md-4{
+    margin: 0 auto;
+}
+.row1  .col-md-8 p{
+    text-align: center;
+    margin:0 auto;
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Kavivanar', cursive;
+    color: #008744;
+}
+.row1  .col-md-4 img{
+   
+    margin-left: 85px;
+   
+}
+/*/////////////////*/
+.row2{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    
+}
+.row2  .col-md-8 p{
+    text-align: center;
+    margin:0 auto;
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Kavivanar', cursive;
+    color: #008744;
+}
+.row2  .col-md-4 img{
+   
+    margin-left: 85px;
+   
+}
+
+/*////////////////////////*/
+
+
+.row3{
+    margin: 0 auto;
+    
+    
+}
+.row3  .col-md-8 p{
+    text-align: center;
+    margin:0 auto;
+    font-size: 20px;
+    margin-top: 50px;
+    font-family: 'Kavivanar', cursive;
+    color: #008744;
+}
+.row3  .col-md-4 img{
+   
+    margin-left: 85px;
+   
+}
+footer{
+    background-color:#4285f4;
+   
+}
+footer p{
+     color:#ffffff;
+}
+.rahul{
+   font-style: italic;
+    color:yellow;
+}
